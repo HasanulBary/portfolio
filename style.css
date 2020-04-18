@@ -91,7 +91,10 @@ header .brand-name a
     text-transform: uppercase;
     position: relative;
 }
-
+header .navbar
+{
+    position: sticky;
+}
 header .navbar ul
 {
     list-style: none;
